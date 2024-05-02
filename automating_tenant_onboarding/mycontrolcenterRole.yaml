@@ -1,0 +1,8 @@
+Role: DeveloperREad
+metadaname: c3-role
+principlename: GG_KAAS_c3_mygroup
+principletype: Group
+resources:
+- Resourcename: DMN01-MDL
+  Resourcetype: Topic
+  patternType: PREFIXED
